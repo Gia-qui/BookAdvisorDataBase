@@ -1,0 +1,5 @@
+# Large-Scale and Multi-Structured DataBases project
+
+The aim of this project is to develop a database suitable for managing a social platform for book reviews. This platform should provide readers with the ability to share their opinions and read others' opinions, which can help them choose new books to read. The databases utilized for this project are MongoDB and Neo4J. MongoDB is used to store three collections: users, book, and review, while Neo4J is exploited to help with the more social functionalities. Users will be able to search for specific books, view reviews, publish their own reviews, upvote and downvote others' reviews. Additionally, users can check other users' profiles to access social functionalities such as viewing a user's most helpful reviews, following other users, and receiving personalized book recommendations based on their reviews, recommendations of other users to follow with similar tastes in books, and much more. A simple and bare-bone GUI has been developed with the sole purpose of allowing interaction with the databases and their functionalities.
+
+More info inside the docs folder
